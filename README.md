@@ -6,7 +6,8 @@ To compile :
 g++ -pthread path_tracer.cpp 
 ```
 
-##Contributors:
+## Contributors:
+
 [Pratyush V M](https://github.com/PratyushVM)
 
 [Bavesh-B](https://github.com/Bavesh-B)
